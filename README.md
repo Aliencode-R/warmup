@@ -12,13 +12,13 @@ A warmup exercise for Git
 
 - [ ] Make **verified** commits. Read more [here](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work).
 
-
+  
 
 NOTE : This is a simple exercise, please do make sure you complete the exercise first. 
 
 ## CONTRIBUTORS
 
-- Piyush Aggarwal | brute4s99
+- gaurav choudhary 
 
 
 
